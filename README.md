@@ -14,7 +14,7 @@
 https://raw.githubusercontent.com/amatol/shadowrocket-configuration/refs/heads/main/ru_config.conf
 
 
-**ru_config_beta.conf** - тестовая конфигурация для обкатки новых изменений. Использовать НЕ РЕКОМЕНДУЕТСЯ.
+**ru_config_beta.conf** - тестовая конфигурация для обкатки новых изменений. Использовать эту конфигурацию НЕ РЕКОМЕНДУЕТСЯ.
 
 Ссылка на бета-конфигурацию:
 https://raw.githubusercontent.com/amatol/shadowrocket-configuration/refs/heads/main/ru_config_beta.conf
