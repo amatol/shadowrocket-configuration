@@ -10,13 +10,13 @@
 
 **ru_config.conf** - данный конфиг считаю рабочим и протестированым. Можно спокойно использовать. Обновляться будет автоматически, если включить это в приложении Shadowrocket. Поставить обновления раз в неделю обычно достаточно.
 
-Ссыллка на конфигурацию:
+Ссылка на конфигурацию:
 https://raw.githubusercontent.com/amatol/shadowrocket-configuration/refs/heads/main/ru_config.conf
 
 
 **ru_config_beta.conf** - тестовая конфигурация для обкатки новых изменений. Использовать НЕ РЕКОМЕНДУЕТСЯ.
 
-Ссыллка на бета-конфигурацию:
+Ссылка на бета-конфигурацию:
 https://raw.githubusercontent.com/amatol/shadowrocket-configuration/refs/heads/main/ru_config_beta.conf
 
 ----------------------
